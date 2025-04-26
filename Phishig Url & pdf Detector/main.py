@@ -7,7 +7,7 @@ import PyPDF2
 app = Flask(__name__)
 
 # Set up the Google API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBAdonZF7yIohkwD646EuN01FZH6p3GD7o"
+os.environ["GOOGLE_API_KEY"] = "write your api here"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # Initialize the Gemini model
