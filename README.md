@@ -29,5 +29,5 @@ A web application that detects phishing URLs and scam file contents using machin
 - http://127.0.0.1:5000/
 
 You’ll see a cool dark-themed interface called ThreatGuard where you can:
-Upload PDF/TXT to detect scam content
-Enter a URL to check if it’s phishing/malware/etc.
+- Upload PDF/TXT to detect scam content
+- Enter a URL to check if it’s phishing/malware/etc.
