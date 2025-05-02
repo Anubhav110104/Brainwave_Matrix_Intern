@@ -21,8 +21,8 @@ A smart web-based Password Strength Checker that analyzes your password, identif
 ## Usage
 1. Clone the Repository
 - git clone https://github.com/Anubhav110104/Brainwave_Matrix_Intern.git
-  cd Password Strength Checker
-  
+- cd Password Strength Checker
+
 2. Create and Activate Virtual Environment (Optional but recommended)
 - python -m venv venv
   source venv/bin/activate  # For Windows: venv\Scripts\activate
@@ -35,8 +35,3 @@ A smart web-based Password Strength Checker that analyzes your password, identif
 
 5. Open in Browser
 - Navigate to http://127.0.0.1:5000 and start analyzing passwords!
-
-You’ll see a cool dark-themed interface called ThreatGuard where you can:
-- Upload PDF/TXT to detect scam content
-- Enter a URL to check if it’s phishing/malware/etc.
-
