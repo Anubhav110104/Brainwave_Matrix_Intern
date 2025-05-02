@@ -20,8 +20,8 @@ A smart web-based Password Strength Checker that analyzes your password, identif
 
 ## Usage
 1. Clone the Repository
-- git clone https://github.com/your-username/password-analyzer.git
-  cd password-analyzer
+- git clone https://github.com/Anubhav110104/Brainwave_Matrix_Intern.git
+  cd Password Strength Checker
   
 2. Create and Activate Virtual Environment (Optional but recommended)
 - python -m venv venv
