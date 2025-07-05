@@ -20,7 +20,6 @@ A smart web-based Password Strength Checker that analyzes your password, identif
 
 ## Usage
 1. Clone the Repository
-- git clone https://github.com/Anubhav110104/Cyber-security-Projects/Password Strength Checker.git
 - cd Password Strength Checker
 
 2. Create and Activate Virtual Environment (Optional but recommended)
