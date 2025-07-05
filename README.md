@@ -1,5 +1,3 @@
-# Brainwave_Matrix_Intern
-
 # Phishing Link Scanner
 
 A web application that detects phishing URLs and scam file contents using machine learning and AI.
